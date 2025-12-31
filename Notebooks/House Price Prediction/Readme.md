@@ -10,7 +10,7 @@ The focus of the project is not just model performance, but **correct ML practic
 - appropriate evaluation metrics
 - model ensembling
 
-The solution is implemented using **scikit-learn** and is designed to be clear, reproducible, and interview-ready.
+The solution is implemented using **scikit-learn** and is designed to be clear, reproducible.
 
 ---
 
